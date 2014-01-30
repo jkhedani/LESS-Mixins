@@ -1,5 +1,5 @@
 #	LESS Mixins
-##	By Justin Hedani
+*By Justin Hedani*
 
 A compilation of useful LESS mixins that's easy to use and
 integrate into any web project utilizing LESS markup!
