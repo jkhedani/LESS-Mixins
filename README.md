@@ -8,5 +8,5 @@ integrate into any web project utilizing LESS markup!
 ### Installation
 
 1.	Include the less-mixins.less file into existing
-	LESS markup using the @include parameter.
+	LESS markup using the @import parameter.
 2.	Enjoy access to all these useful mixins!
